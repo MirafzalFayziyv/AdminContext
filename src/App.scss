@@ -1,0 +1,13 @@
+.link__navbar{
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    &:hover{
+        color: black;
+    }
+}
+.navbarLayout{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
